@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasperTut", "JasperTut.csproj", "{E6553AC1-2AF3-494C-A9BE-A126D616504F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6553AC1-2AF3-494C-A9BE-A126D616504F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6553AC1-2AF3-494C-A9BE-A126D616504F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6553AC1-2AF3-494C-A9BE-A126D616504F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6553AC1-2AF3-494C-A9BE-A126D616504F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5940E6FD-8A67-4205-9E63-0B79849AF643}
+	EndGlobalSection
+EndGlobal
